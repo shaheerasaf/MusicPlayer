@@ -12,11 +12,16 @@
 #Music Player using C++
 
 # Main Features
+1. PLay/Pasue Songs
+2. Forward/Rewind Songs
+3. Skipping Songs
 
-#Types of Users
+## Types of Users
+1. User
 
-##Requirements
-1.
-2.
-3.
+## Requirements
+1. Function
+2. Array
+3. Control Structure
+
 
